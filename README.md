@@ -37,7 +37,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Github Repository
-[Demo](https://drive.google.com/file/d/1bbyhpic-vKc-DuTVATqRzjomCxgnomcd/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1bbyhpic-vKc-DuTVATqRzjomCxgnomcd/view?usp=sharing) </br>
 [GitHub Repo](https://github.com/mluron-ArxFjs/Ecommerce-BackEnd)
 
 ## Getting Started
